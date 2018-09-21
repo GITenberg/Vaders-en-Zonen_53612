@@ -1,0 +1,43 @@
+_repo: Vaders-en-Zonen_53612
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Saalborn, Arn.
+    alias: Saalborn, Arnold Louis Bernard
+    birthdate: 1888
+    deathdate: 1973
+    gutenberg_agent_id: '47451'
+    url: http://www.gutenberg.org/2009/agents/47451
+creator:
+  author:
+    agent_name: Turgenev, Ivan Sergeevich
+    aliases:
+    - Тургенев, Иван Сергеевич
+    - Turgénieff, Iván
+    - Toergenev, Ivan
+    - Tourgueneff, Ivan
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '922'
+    url: http://www.gutenberg.org/2009/agents/922
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Turgenev
+description: 'Translation of: Отцы и дети.'
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53612'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russia -- Social life and customs -- 1533-1917 -- Fiction'
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Russia -- Social conditions -- 1801-1917 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'Domestic fiction'
+- !lcsh 'Nihilism (Philosophy) -- Fiction'
+- !lcsh 'Historical fiction'
+- GITenberg
+title: Vaders en Zonen
+url: http://www.gutenberg.org/ebooks/53612
